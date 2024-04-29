@@ -1,4 +1,4 @@
-# EDA_behavior_analysis_Ads
+# EDA Consumer Behavior Analaysis
 EDA analysis of the information about individuals and their response to a particular advertisement campaign on social media
 
 ### Data Description
