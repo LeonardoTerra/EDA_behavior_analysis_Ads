@@ -26,3 +26,5 @@ Data Type: Integer (0 or 1), Description: Indicates whether the individual made 
 
 ### Additional Information
 This dataset can be used to analyze the relationship between age, estimated salary, and purchase behavior in response to the advertisement. The dataset appears to be suitable for binary classification tasks, where the goal might be to predict whether an individual will make a purchase based on age and estimated salary. Exploratory data analysis (EDA) techniques can be applied to understand patterns and correlations within the dataset before building predictive models.
+
+See file on Kaggle [here](https://www.kaggle.com/code/leonardoterra/eda-ads-behavior-analysis)
